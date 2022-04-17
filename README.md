@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend 
 - 🌱 I’m currently learning golang 
 - 💞️ I’m looking to collaborate on any company
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/alief-bagaskara-alamsyah-ba46a5137/
 
 <!---
 aliepba/aliepba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
