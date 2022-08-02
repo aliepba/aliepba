@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliepba
 - 👀 I’m interested in backend 
-- 🌱 I’m currently learning golang 
+- 🌱 I’m currently learning nodejs 
 - 💞️ I’m looking to collaborate on any company
 - 📫 How to reach me  aliefbagas3@gmail.com
 
