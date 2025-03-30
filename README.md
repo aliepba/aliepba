@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm alief 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=You+die+as+you+lived.+Insipid+and+ignorant." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=You+die+as+you+lived.+Insipid+and+ignorant." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
