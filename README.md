@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm aliefba 👋</h1>
+<h1 align="center">Hey there, I'm alief 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Code.+Create.+Coffee.+Repeat." alt="Typing SVG" />
