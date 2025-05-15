@@ -13,7 +13,7 @@
 ### 🧠 About Me
 - 🧑‍💻 I turn coffee into code and chaos into clean architecture.
 - 🧪 I love experimenting with new frameworks and building side projects that no one asked for (but secretly needed).
-- 🌱 Currently exploring: **AI integrations**, **Golang**, and **digital minimalism**.
+- 🌱 Currently exploring: **Space**, **Golang**, and **digital minimalism**.
 
 ---
 
